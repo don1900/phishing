@@ -81,5 +81,5 @@ a)
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/don1900" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/don1900" target="_blank"><img src="https://img.shields.io/badge/Github-DON--1900-green?style=for-the-badge&logo=github"></a>
 </p>
