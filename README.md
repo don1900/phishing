@@ -38,7 +38,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone git://github.com/don1900/phishing.git
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
@@ -76,17 +76,10 @@ $ docker run --rm -it htrtech/zphisher
 <img src=".imgs/wf.gif"/>
 </p>
 
-### Special Thanks :
-
-- [**Aditya Shakya**](https://github.com/adi1090x)
-- [**TheLinuxChoice**](https://twitter.com/linux_choice)
-- [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
-- [**Moises Tapia**](https://github.com/MoisesTapia)
+a)
 
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+  <a href="https://github.com/don1900" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
 </p>
